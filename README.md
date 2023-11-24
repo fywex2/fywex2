@@ -8,7 +8,7 @@
   <a href="https://discord.com/users/548472552129953793">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="fywex"/>
   </a>
-  <a href="https://steamcommunity.com/id/fywex.">
+  <a href="https://steamcommunity.com/id/fywex">
     <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white" alt="Fywex"/>
   </a>
 </div>
