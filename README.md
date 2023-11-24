@@ -6,15 +6,15 @@
 
 <div id="badges" align="center">
   <a href="https://discord.com/users/548472552129953793">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="AsTr0#7334"/>
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="fywex"/>
   </a>
-  <a href="https://steamcommunity.com/id/JustAstr0">
-    <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white" alt="Astr0"/>
+  <a href="https://steamcommunity.com/id/fywex.">
+    <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white" alt="Fywex"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JustAstr01&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=fywex2&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h3 align="center">:man_technologist: About Me</h3>
