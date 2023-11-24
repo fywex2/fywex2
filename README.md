@@ -20,7 +20,7 @@
 <h3 align="center">:man_technologist: About Me</h3>
 <div align="center">
 Hi, I'm <strong>Fywex</strong>, I'm a software engineering high school student who loves to gain knowledge.</br>
-I also have interest in cyber security and networking and I'm currently researching and learning about those subjects
+I also have interest in cyber security and networking and I'm currently researching and learning about those subjects.
 
 </div>
 
